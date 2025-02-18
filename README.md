@@ -18,4 +18,4 @@ AlienInvasion is a small game project developed using the Pygame package.
 ## Usage
 To start the game, run the following command:
 
-python src/main.py
+python src/alien_invasion.py
